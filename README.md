@@ -4,7 +4,7 @@ Notebook Link : https://nbviewer.jupyter.org/github/gouravsinha1405/Determine-Co
 
 - Backward elimination method for feature selection
 - Gaussian mixture model and K means for unsupervised clustering
-- Variance Inflation Factor for feature engineering
+- Variance Inflation Factor for correlation analysis
 - Transformers and pipelines
 - Lasso, Ridge, Polynomial regression and xgboost with randomsearchcv
 
